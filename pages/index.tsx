@@ -24,6 +24,7 @@ const Home: NextPage = () => {
           <div className="relative top-8 lg:sticky">
             <PostWidget />
             <Categories />
+            zzz
           </div>
         </div>
       </div>
