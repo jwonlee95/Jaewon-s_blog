@@ -1,4 +1,4 @@
-# Next.js + GrapgQL Blog
+# Next.js + GraphQL Blog
 
 ## Deployed by Vercel
 
